@@ -1,0 +1,32 @@
+---
+layout: default
+---
+<div class="mid-section-cover">
+    <nav>
+        <a style = "color: inherit; text-decoration: inherit;"
+            href = "{{ '/' | relative_url }}">
+            <h1>{{ site.author_name }}</h1>
+        </a>
+        {% include navigation.html %}
+    </nav>
+    <main class="sub-mid-section-cover">
+        {{ content }}
+        <p style="text-align: center; margin: 0 auto, width: 50%;" id="random-string"></p>
+    </main>
+</div>
+
+<script>
+  const strings = [
+    "One time I told my boss that I pretty much only ever do things if I find them funny and/or interesting.",
+    "When I was little I wanted to be an inventor.",
+    "Sometimes when I really can't sleep I get up and make myself a little snack.",
+    "I like to exercise 5 times a week.",
+    "I miss cold rock ice creamery.",
+    "I usually have 2 coffees a day.",
+    "My first concert was Hi-5.",
+    "I'm 5'7 and a half.",
+    "My favourite subject in high school was philosophy."
+  ];
+  const random = strings[Math.floor(Math.random() * strings.length)];
+  document.getElementById("random-string").textContent = random;
+</script>
