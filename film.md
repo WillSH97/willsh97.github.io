@@ -6,9 +6,13 @@ background-color: "#e8ff83"
 text-color: "#423724"
 highlight-color: "#ff95f7"
 font: "cursive"
+fontsize: "0.85em"
 ---
 
 # <center>FILM</center>
+{:refdef: style="text-align: center;"}
+![I'm making movies baby](/images/me-film.png){: width="200px"}
+{: refdef}
 
 I have been making silly videos since I was like 10 - one of my first successes as a filmmaker was getting 100k views on a Naruto AMV back in 2008. It has a 50% like/dislike ratio because I got copyright struck and the replacement music doesn’t match up to the video. I’ve since learned to appreciate the value of Intellectual Property Law.
 

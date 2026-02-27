@@ -6,4 +6,6 @@ text-color: "#1a2221"
 highlight-color: "#d4eb74"
 font: "Courier New"
 ---
-![It's me!](/images/me-home.png){: width="100%"}
+{:refdef: style="text-align: center;"}
+![It's me!](/images/me-home.png){: width="45%"}
+{: refdef}

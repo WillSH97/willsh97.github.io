@@ -2,10 +2,10 @@
 layout: description
 title: Contact
 permalink: /contact/
-background-color: "#e8ff83"
+background-color: "#A0EFB2"
 text-color: "#423724"
 highlight-color: "#ff95f7"
-font: "ＭＳ Ｐゴシック"
+font: "Slabo"
 ---
 
 # <center>CONTACT ME</center>

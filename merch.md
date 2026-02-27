@@ -2,10 +2,11 @@
 layout: description
 title: Merch
 permalink: /merch/
-background-color: "#e8ff83"
+background-color: "#FBD5FF"
 text-color: "#423724"
 highlight-color: "#ff95f7"
-font: "ＭＳ Ｐゴシック"
+font: "DMSans"
+fontsize: "0.9em"
 ---
 
 # <center>MERCH</center>
