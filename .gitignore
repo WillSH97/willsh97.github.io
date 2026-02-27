@@ -5,4 +5,4 @@ _site
 Gemfile.lock
 vendor
 .jekyll-metadata
-.ipynb_checkpoints
+*.ipynb_checkpoints/
