@@ -1,6 +1,11 @@
 # resume_url: "Resume.pdf"
 author_name: "William He"
 url: williamhe.site
+title: "William He - Miscellaneous"
+description: "Hello! I'm Will. You either know me professionally as a data scientist, or you're disappointed in me from my time on Race Around The World in 2026. In any case - this is my website :) On it are many facts about myself"
+url: "https://williamhe.site" # Or your custom domain
+author: "William He"
+
 
 plugins:
   - jekyll-seo-tag
