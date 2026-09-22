@@ -18,8 +18,7 @@ Famously, consistently last on Race Around the World 2026.
 
 I have been making silly videos since I was like 10 - one of my first successes as a filmmaker was getting 100k views on a Naruto AMV back in 2008. It has a 50% like/dislike ratio because I got copyright struck and the replacement music doesn’t match up to the video. I’ve since learned to appreciate the value of Intellectual Property Law.
 
-
-<!-- CV available here: LINK -->
+CV available [here](/files/WH-Film-CV-26.pdf)
 
 ---
 
