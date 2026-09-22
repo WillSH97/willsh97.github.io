@@ -16,7 +16,8 @@ font: "monospace"
 
 I’ve been working professionally in data science since 2021, mostly working on traditional Natural Language Processing, Transformer models, and more recently Diffusion models. Currently, I am the Machine Learning Engineer at [QUT’s GenAI Lab](https://research.qut.edu.au/genailab/). I previously worked for the Australian government, and before that, livestreamed funerals (nothing to do with AI or data science, just some fun trivia).
 
-<!-- ADD CV HERE -->
+CV viewable [here](/files/WH-Data-CV-26.pdf).
+
 ---
 
 ## <center>HIGHLIGHT PROJECTS</center>
