@@ -5,7 +5,7 @@ permalink: /film/
 background-color: "#e8ff83"
 text-color: "#423724"
 highlight-color: "#ff95f7"
-font: "cursive"
+font: "serif"
 fontsize: "0.85em"
 ---
 
